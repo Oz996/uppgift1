@@ -1,0 +1,16 @@
+body {
+    background-color: black;
+}
+
+#container {
+    background-color: purple;
+    border : 5px solid purple; outline: auto; outline-color: white;
+    height: 280px;
+    width: 550px;
+    text-align: center;
+ }
+
+h1{color: white; font-family: Arial, Helvetica, sans-serif;}
+p {color: white; font-family: Arial, Helvetica, sans-serif;}
+
+#outputText { color: red;}
